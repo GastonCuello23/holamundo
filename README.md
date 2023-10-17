@@ -7,4 +7,4 @@ preguntate si lo que estas haciendo hoy te hacerca al lugar que quieres estar ma
 
 si el plan no funciona no cambies de meta cambia de plan
  estoy haciendo pruebas para entender git hub
- 
+ sigo escribiendo lineas para tener cambios 
